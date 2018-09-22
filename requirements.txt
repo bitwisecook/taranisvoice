@@ -1,0 +1,4 @@
+appdirs
+git+git://github.com/nateshmbhat/pyttsx3.git@master#egg=pyttsx3
+pyobjc
+py2app

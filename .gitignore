@@ -1,0 +1,9 @@
+venv/
+build/
+dist/
+icon.icns
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.idea/
